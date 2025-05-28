@@ -1,0 +1,5 @@
+2025-05-28 13:16:20.061 [info] Started local extension host with pid 13567.
+2025-05-28 13:16:20.089 [info] ComputeTargetPlatform: linux-x64
+2025-05-28 13:16:20.329 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-28 13:16:22.738 [info] [perf] Render performance baseline is 28ms
+2025-05-28 13:18:24.824 [warning] [backup tracker] suspended, ignoring unregister event file:///home/ghastuy/Documents/github/elearning/frontend/website/package.json 

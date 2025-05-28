@@ -1,0 +1,19 @@
+#!/bin/bash
+# Check the hyprsunset is on or off then display the text
+prev_state=""
+while true; do
+if pgrep -x 'hyprsunset' > /dev/null; then
+    new_state="on"
+else
+    new_state="off"
+fi
+if [ "$new_state" != "$prev_state" ]; then
+    prev_state=$new_state
+    if [ "$new_state" == "on" ]; then
+        jq -n --unbuffered --compact-output --arg icon1 "󰖔" '{"text": "On", "alt": "true"}'
+    else
+        jq -n --unbuffered --compact-output --arg icon2 "" '{"text": "Off", "alt": "false"}'
+    fi
+fi
+sleep 3
+done

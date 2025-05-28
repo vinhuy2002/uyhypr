@@ -1,0 +1,7 @@
+cursor-bin
+hyprshot
+postman-bin
+sublime-text-4
+wlogout
+yay
+yay-debug

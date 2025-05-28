@@ -1,0 +1,8 @@
+#!/bin/bash
+# Toggle script hyprsunset
+if pgrep -x 'hyprsunset' > /dev/null;
+then
+    pkill hyprsunset
+else
+    hyprsunset -t 3500 & disown
+fi

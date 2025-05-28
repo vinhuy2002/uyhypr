@@ -1,0 +1,16 @@
+2025-05-28 13:16:20.722 [info] Extension host with pid 13567 started
+2025-05-28 13:16:20.722 [info] Skipping acquiring lock for /home/ghastuy/.config/Code - OSS/User/workspaceStorage/7921433d8c462d30f76d81e10a42f5e0.
+2025-05-28 13:16:20.728 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-28 13:16:20.769 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-28 13:16:20.772 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-05-28 13:16:20.887 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-28 13:16:20.940 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-28 13:16:21.026 [info] Eager extensions activated
+2025-05-28 13:16:21.030 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-28 13:16:21.032 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-28 13:16:21.051 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-05-28 13:16:26.102 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-05-28 13:16:26.117 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-05-28 13:16:26.136 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-05-28 13:18:24.820 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-28 13:18:24.828 [info] Extension host with pid 13567 exiting with code 0

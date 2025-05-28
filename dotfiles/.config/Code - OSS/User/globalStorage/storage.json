@@ -1,0 +1,107 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "ed3bc7b14d7eba5a7796c647a3779a56b09434636310be546083bc30b73b0390",
+    "telemetry.devDeviceId": "caee4652-bb54-4f8b-b42a-462e80f35164",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/ghastuy/Documents/github/uyhypr"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ghastuy/.config/hypr": "__default__profile__",
+            "file:///home/ghastuy/.config/waybar": "__default__profile__",
+            "file:///home/ghastuy/Documents/github/elearning/docker": "__default__profile__",
+            "file:///home/ghastuy/Documents/github/elearning/backend": "__default__profile__",
+            "file:///home/ghastuy/Documents/github/elearning/frontend/website": "__default__profile__",
+            "file:///home/ghastuy/.config/fastfetch": "__default__profile__",
+            "file:///home/ghastuy/Documents/github/uyhypr": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "06c4bb5404576a498825583ba03e105a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "8e59e2afe0221c3cce9873bd7cf119e6": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d7970b0c3ef830e71e8c67f708d200fd": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "92abdffcbaa47543a3349cb61525f180": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7921433d8c462d30f76d81e10a42f5e0": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d980691f8426691d9e7398c6b9556a7b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "745a0bdd8e5329513404398df7d30fd3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/ghastuy/Documents/github/uyhypr",
+            "backupPath": "/home/ghastuy/.config/Code - OSS/Backups/5d953e3d0c5d9072c622259dc081d2e3",
+            "uiState": {
+                "mode": 1,
+                "x": 1923,
+                "y": 41,
+                "width": 1914,
+                "height": 1036
+            }
+        },
+        "openedWindows": []
+    }
+}
