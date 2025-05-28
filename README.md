@@ -2,8 +2,8 @@
 ## Important Notes: 
 - #: su (super user)
 - $: normal user
-- Font use: (JetBrainsMono Nerd Font)[https://www.nerdfonts.com/font-downloads]
-- (Install Font)[https://wiki.archlinux.org/title/Fonts], follow the ```2.3 Manual installation``` (Subject may change but the wiki always has this section).
+- Font use: [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)
+- [Install Font](https://wiki.archlinux.org/title/Fonts), follow the ```2.3 Manual installation``` (Subject may change but the wiki always has this section).
 ## Installation:
 1. Install package from list using this command.
 ```
